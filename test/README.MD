@@ -24,7 +24,7 @@ located in Ottawa, Ontario. The gas meter is a light commercial (also suitable f
 
 |__Figure 1.__ The Itron 400A gas diaphragm meter|
 |:------------------------:|
-|![](figure/gas_meter.png){:width=50%}|
+|![](figure/gas_meter.png)|
 
 ## 1.2. The image capturing system
 To ensure that the images are captured continuously and consistently, we built a smart image capturing system powered by advanced edge processing techniques able to capture images
