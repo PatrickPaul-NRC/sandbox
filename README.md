@@ -1,5 +1,7 @@
 # NRC-GAMMA: A novel benchmark gas meter image dataset
 
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 Automatic meter reading technology is not yet widespread. Gas, electricity, or water accumulation meters reading is mostly done manually on-site either by an operator or by the
