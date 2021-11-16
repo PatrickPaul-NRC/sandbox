@@ -1,5 +1,7 @@
 # NRC-GAMMA: A novel benchmark gas meter image dataset
 
+[Creative Commons Attribution 4.0 International License][cc-by].
+
 Automatic meter reading technology is not yet widespread. Gas, electricity, or water accumulation meters reading is mostly done manually on-site either by an operator or by the
  homeowner. In some countries, the operator takes a picture as reading proof to confirm the reading by checking offline with another operator and/or using it as evidence in case
  of conflicts or complaints. The whole process is time-consuming, expensive, and prone to errors. Automation can optimize and facilitate such labor-intensive and human error-prone
